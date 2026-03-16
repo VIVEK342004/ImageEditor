@@ -1,0 +1,7 @@
+Flask
+Pillow
+opencv-python
+pytesseract
+setuptools
+numpy
+gunicorn
