@@ -20,14 +20,10 @@ ImageEditor is a Flask-based web application that allows users to upload and edi
 - tempfile: Temporary file management
 - base64: Encoding and decoding images
 
-## Contributors
-
-- [Rajat Malviya](https://github.com/rajat-malvi)
-- [Sundeep Kumar](https://github.com/skddl007)
 
 ## Usage
 
-1. Clone the repository: `https://github.com/skddl007/ImageEditor.git`
+1. Clone the repository: `https://github.com/VIVEK342004/ImageEditor.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python ImageEditor.py`
 4. Access the web interface in your browser: `http://localhost:5000`
